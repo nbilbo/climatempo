@@ -3,7 +3,7 @@
 <br>
 
 ## instalação
-1. clonando o reposito `git clonehttps://github.com/nbilbo/climatempo.git`
+1. clonando o reposito `git clone https://github.com/nbilbo/climatempo.git`
 2. movendo para o diretorio do projeto `cd ./climatempo` 
 3. criando um novo ambiente virtual `python3 -m venv venv`
 4. ativando o ambiente virtual `source ./venv/bin/activate`
